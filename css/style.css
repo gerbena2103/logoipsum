@@ -17,7 +17,7 @@
     padding: 38px 0 47px;
 }
 
-.header__flex, .footer__flex {
+.header__flex, .footer__flex, .about {
     display: flex;
     justify-content: space-between;
     align-items: center;
